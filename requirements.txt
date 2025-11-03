@@ -1,0 +1,7 @@
+pandas
+beautifulsoup4
+textstat
+nltk
+scikit-learn
+joblib
+streamlit
